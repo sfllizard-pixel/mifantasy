@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.ac6585e5.css",
-    "main.js": "./static/js/main.ead8bae3.js",
+    "main.css": "./static/css/main.7ac2d354.css",
+    "main.js": "./static/js/main.a2836d17.js",
     "dashboard.js": "./static/js/dashboard.ad3b9df8.chunk.js",
     "standings.js": "./static/js/standings.542e1025.chunk.js",
     "market.js": "./static/js/market.efbf9e6b.chunk.js",
@@ -18,7 +18,7 @@
     "alerts.js": "./static/js/alerts.31af099f.chunk.js",
     "settings.js": "./static/js/settings.5e2df2ac.chunk.js",
     "my-trades.js": "./static/js/my-trades.a970f6d3.chunk.js",
-    "rivals-profit.js": "./static/js/rivals-profit.415a073d.chunk.js",
+    "rivals-profit.js": "./static/js/rivals-profit.1572ab13.chunk.js",
     "auto-clause.js": "./static/js/auto-clause.befa2fab.chunk.js",
     "my-squad.js": "./static/js/my-squad.b853d236.chunk.js",
     "onces.js": "./static/js/onces.58ecb7a5.chunk.js",
@@ -58,7 +58,7 @@
     "static/js/react-query.aa9bf3e5.js",
     "static/js/utils.a55e7671.js",
     "static/js/vendors.739c61db.js",
-    "static/css/main.ac6585e5.css",
-    "static/js/main.ead8bae3.js"
+    "static/css/main.7ac2d354.css",
+    "static/js/main.a2836d17.js"
   ]
 }
