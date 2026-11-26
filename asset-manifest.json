@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.7ac2d354.css",
-    "main.js": "./static/js/main.a2836d17.js",
+    "main.js": "./static/js/main.32b4306d.js",
     "dashboard.js": "./static/js/dashboard.ad3b9df8.chunk.js",
     "standings.js": "./static/js/standings.542e1025.chunk.js",
     "market.js": "./static/js/market.efbf9e6b.chunk.js",
@@ -16,10 +16,10 @@
     "laliga-teams.js": "./static/js/laliga-teams.239545b7.chunk.js",
     "market-trends.js": "./static/js/market-trends.763dc156.chunk.js",
     "alerts.js": "./static/js/alerts.31af099f.chunk.js",
-    "settings.js": "./static/js/settings.5e2df2ac.chunk.js",
+    "settings.js": "./static/js/settings.d46dcdd6.chunk.js",
     "my-trades.js": "./static/js/my-trades.a970f6d3.chunk.js",
     "rivals-profit.js": "./static/js/rivals-profit.1572ab13.chunk.js",
-    "auto-clause.js": "./static/js/auto-clause.befa2fab.chunk.js",
+    "auto-clause.js": "./static/js/auto-clause.d307177a.chunk.js",
     "my-squad.js": "./static/js/my-squad.b853d236.chunk.js",
     "onces.js": "./static/js/onces.58ecb7a5.chunk.js",
     "exceljs.js": "./static/js/exceljs.9f4f027e.chunk.js",
@@ -59,6 +59,6 @@
     "static/js/utils.a55e7671.js",
     "static/js/vendors.739c61db.js",
     "static/css/main.7ac2d354.css",
-    "static/js/main.a2836d17.js"
+    "static/js/main.32b4306d.js"
   ]
 }
